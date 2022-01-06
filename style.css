@@ -81,7 +81,14 @@ ul li a {
     justify-content: center;
 }
 
-.body-two p {
+.body-two .quote {
     display: flex;
     justify-content: center;
+}
+
+.author {
+    display: flex;
+    justify-content: center;
+    margin-left: 20%;
+    font-weight: bold;
 }
