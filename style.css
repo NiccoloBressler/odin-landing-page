@@ -37,6 +37,13 @@ ul li a {
 .subheading p {
     padding-right: 265px;
 }
+
+.signup {
+    margin-top: 10px;;
+    height: 30px;
+    background: rgb(127, 127, 204);
+}
+
 .body-one h2 {
     display: flex;
     padding-top: 50px;
@@ -91,4 +98,36 @@ ul li a {
     justify-content: center;
     margin-left: 20%;
     font-weight: bold;
+}
+
+.body-three {
+    padding: 100px 0;
+    background: rgb(58, 87, 214);
+    color: white;
+    margin: 75px 500px;
+    font-size: 18px;
+}
+
+.cta-header {
+    display:flex;
+    justify-content: center;
+}
+
+.cta-desc {
+    display: flex;
+    justify-content: center;
+}
+
+.cta {
+    height: 30px;
+    background: rgb(197, 197, 251);
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100px;
+    background: rgb(31, 39, 73);
+    color: white;
 }
