@@ -11,6 +11,7 @@ header {
     justify-content: space-around;
     align-items: center;
     height: 100px;
+    font-size: 14px;
 }
 
 ul {
@@ -19,7 +20,7 @@ ul {
 }
 
 ul li a {
-   padding: 0 20px; 
+   padding: 0 15px; 
    text-decoration: none;
    color: white;
 }
@@ -28,4 +29,10 @@ ul li a {
     display: flex;
     background: rgb(31, 39, 73);
     color: white;
+    padding: 75px 0 100px 340px;
+    align-items: center;
+}
+
+.subheading p {
+    padding-right: 265px;
 }
