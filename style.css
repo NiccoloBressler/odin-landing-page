@@ -18,11 +18,14 @@ ul {
     list-style-type: none;
 }
 
-li {
-   padding: 20px; 
+ul li a {
+   padding: 0 20px; 
+   text-decoration: none;
+   color: white;
 }
 
 .subheading {
+    display: flex;
     background: rgb(31, 39, 73);
     color: white;
 }
