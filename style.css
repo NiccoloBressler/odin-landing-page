@@ -36,3 +36,39 @@ ul li a {
 .subheading p {
     padding-right: 265px;
 }
+.body-one h2 {
+    display: flex;
+    padding-top: 50px;
+    justify-content: center;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    gap: 70px;
+}
+
+.descriptions {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+}
+
+.descriptions .desc-one {
+    padding-left: 5px;
+}
+
+.descriptions .desc-two {
+    padding-left: 5px;
+}
+
+.descriptions .desc-three {
+    padding-left: 5px;
+}
+
+.descriptions .desc-four {
+    padding-left: 2px;
+}
