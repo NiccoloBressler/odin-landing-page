@@ -3,3 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    display: flex;
+    background: rgb(31, 39, 73);
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+   padding: 20px; 
+}
+
+.subheading {
+    background: rgb(31, 39, 73);
+    color: white;
+}
